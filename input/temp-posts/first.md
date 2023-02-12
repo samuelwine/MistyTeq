@@ -11,7 +11,7 @@ Fortunately, the concept of a server is very simple.
 
 Your regular home computer does many different things. It does word processing, it can send emails, it allows you to place online orders, and much much more.
 
-Everything that your home computer does is only because you have told the computer to do it. It sends emails because you told it to and it does spreadsheet calculations because you told it to. Never will your computer take instructions from someone external, over the internet for example. If someone over the internet tried to issue instruction to your computer, it would totally ignore them.
+Everything that your home computer does is only because you have told the computer to do it. It sends emails because you told it to and it does spreadsheet calculations because you told it to. Never will your computer take instructions from someone over the internet. If someone over the internet tried to issue instruction to your computer, it would totally ignore them.
 
 Why is that? Why does your computer take instructions from you, but not from an external person over the internet?
 
@@ -26,6 +26,8 @@ Supposing your computer **does** have software on it that tells it how to respon
 "Service Provider" is a bit of a mouthful.... so for short its called.... a server!
 
 Honestly - that's all a server is. Its just a regular computer, that has instructions (aka software) how to respond to commands from internet users.
+
+So whats the difference between a webserver ........................................
 
 So why is there this thing that servers are super-powerful?
 
