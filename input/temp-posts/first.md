@@ -35,6 +35,14 @@ Have you ever (I'm sure you have) asked your computer to do too many things in o
 
 That's kindof ok with your personal computer, you give it a minute or two and it normally gets back to itself. Supposing though your business clients were attempting to connect to your website, and your server gets overloaded, and they have to wait a minute or two for your server to be available.... Not good.
 
+Solution?? - Get a super-powerful computer, install server software on it so that it knows how to respond to external commands, and with its unlimited power, it'll handle hundreds of requests simultaneously without batting an eyelid.
+
+The more internet traffic you're expecting your server to handle, the more powerful you'll want it to be.
+
+So servers do not by definition have to be powerful, but due to the work you're expecting them to do, you'll sure want it to have some serious muscle.
+
+
+
 
 
 
