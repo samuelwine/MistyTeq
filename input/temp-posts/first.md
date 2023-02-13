@@ -1,6 +1,3 @@
-#Types of servers file server web server
-#multiple services on one machine
-
 Title: So what is a Server??
 ---
 # Is a server a different type of computer?
@@ -25,9 +22,15 @@ Supposing your computer **does** have software on it that tells it how to respon
 
 "Service Provider" is a bit of a mouthful.... so for short its called.... a server!
 
-Honestly - that's all a server is. Its just a regular computer, that has instructions (aka software) how to respond to commands from internet users.
+Honestly - that's all a server is. Its just a regular computer, that has instructions (aka software) on how to respond to commands from internet users.
 
-So whats the difference between a webserver ........................................
+So whats the difference between a webserver, a fileserver or other types of servers?
+
+Based on the above, its really straightforward. It all depends on what software has been installed on the computer. If it has software that instructs it how to give out files when requested, then its a file server (it provides a file service). If it has software that instructs it how to give out websites (that are saved on its hard drive as text files), then its a webserver. Nothing more to it than that!
+
+A tiny bit deeper....
+
+A single computer can be a multiple server.... Suppose a computer has webserver software **and** fileserver software installed; it can serve files and websites. Not different at all to a computer that has Word and Excel installed, it can do word processing and spreadsheets.
 
 So why is there this thing that servers are super-powerful?
 
