@@ -1,7 +1,5 @@
 await Bootstrapper
   .Factory
   .CreateWeb(args)
-  // #if !DEBUG
-  // .AddSetting("LinkRoot", "/MistyTeq")
-  // #endif
+  .AddSetting("LinkRoot", "/MistyTeq")
   .RunAsync();
